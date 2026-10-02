@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" />
+<img width="650" height="1156" alt="IMG-20250808-WA0005" src="https://github.com/user-attachments/assets/f1becc91-b681-4c4b-aad5-0c00f2d11b05" />
+
 
 <br>
 
