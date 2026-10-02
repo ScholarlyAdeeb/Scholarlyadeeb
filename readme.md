@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="650" height="1156" alt="IMG-20250808-WA0005" src="https://github.com/user-attachments/assets/f1becc91-b681-4c4b-aad5-0c00f2d11b05" />
+
 
 
 <br>
@@ -8,8 +8,9 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                    PROFILE PHOTO PLACEHOLDER                 -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<img width="428" height="428" alt="image" src="https://github.com/user-attachments/assets/231d9042-ed3d-4fc6-b6ce-234e6fe0e350" />
 
-<img src="./assets/profile-placeholder.svg" width="180" alt="Profile Photo Placeholder"/>
+
 
 <br><br>
 
